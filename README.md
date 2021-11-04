@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in Front-end Development and Javascript
+- 👀 I’m interested in Web Development and Javascript
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/ali-aydemir)
 
 <!---
